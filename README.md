@@ -1,4 +1,4 @@
-# DressUp Game (test assignment)
+# Dress Up Game (test assignment)
 The hand is controlled via Drag (onDrag) to the face area.
 - Transition of player control and automatic animations strictly according to the action area (face area).
 - Smooth transitions between states without jerks and sudden movements.
