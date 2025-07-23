@@ -1,4 +1,8 @@
-# DressUp
+# DressUp Game (test assignment)
+The hand is controlled via Drag (onDrag) to the face area.
+- Transition of player control and automatic animations strictly according to the action area (face area).
+- Smooth transitions between states without jerks and sudden movements.
+- Interaction with three objects: cream, eyeshadow, lipstick, blush.
 
 ### Mechanic: applying cream (removing pimples)
 https://github.com/user-attachments/assets/670ddcc0-7291-4a38-8ddd-662ee510c77c
