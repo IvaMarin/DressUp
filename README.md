@@ -5,13 +5,13 @@ The hand is controlled via Drag (onDrag) to the face area.
 - Interaction with three objects: cream, eyeshadow, lipstick, blush.
 
 ### Mechanic: applying cream (removing pimples)
-https://github.com/user-attachments/assets/670ddcc0-7291-4a38-8ddd-662ee510c77c
+<img src="https://github.com/user-attachments/assets/867b1362-3921-4f49-9e7b-1aa0982eaf47" width="150">
 
 ### Mechanic: applying blush (applying blush to a doll)
-https://github.com/user-attachments/assets/e71ceda6-eaec-47d1-a466-7b7413d62778
+<img src="https://github.com/user-attachments/assets/c3bf05ad-b559-436a-9168-444a39bd1f87" width="150">
 
 ### Mechanic: applying lipstick (painting lips)
-https://github.com/user-attachments/assets/778599a1-a1c7-4f71-8edb-bb1182caf956
+<img src="https://github.com/user-attachments/assets/4c1ee699-06c9-44a6-b535-2ee487d6d0ce" width="150">
 
 ### Extra mechanic: sponge
-https://github.com/user-attachments/assets/4b6acbc7-8cd6-4206-be80-3377cd29a5f8
+<img src="https://github.com/user-attachments/assets/115a0ed9-960c-4c5e-8163-0ace18d703e6" width="150">
