@@ -6,8 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    path: Assets/Scenes/MakeUpScene.unity
+    guid: cada2460bfa6ad24c8b72914d6336ef5
   m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 3202b3185bf7699488bb1576d0bc3af9, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 4e33b9a9f8792d649977f0bad9fa387d, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 4987152e28f603445ab23e966539ec36, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
